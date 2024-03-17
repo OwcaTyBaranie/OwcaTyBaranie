@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwcaTyBaranie junior frontend developer.
 - 👀 I’m interested in programming and leanguage lerning.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript/React.
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me- hola.wawrzyniak@gmail.com
 - 😄 Pronouns: Mr.
